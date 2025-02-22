@@ -18,7 +18,7 @@ Installation and Setup
 
 Clone the repository:
 
-git clone https://github.com/your-repo/project-name](https://github.com/DURODOLA-ABDULKABIR/Voyatek-assessment1.git
+git clone https://github.com/DURODOLA-ABDULKABIR/Voyatek-assessment1
 
 cd project-name
 
